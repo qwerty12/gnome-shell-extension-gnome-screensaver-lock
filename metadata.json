@@ -1,0 +1,16 @@
+{
+  "description": "Adds a lock computer button to the panel when using GNOME Screensaver",
+  "name": "GNOME Screensaver lock button",
+  "shell-version": [
+    "3.14",
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26",
+    "3.28"
+  ],
+  "uuid": "gnome-screensaver-lock@pk.qwerty12",
+  "version": 1
+}
